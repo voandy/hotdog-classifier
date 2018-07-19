@@ -3,6 +3,7 @@
 This is a convolutional neural network trained from scratch to classify images of hot dogs with 82.45% accuracy.
 
 ![Comic](https://i.imgur.com/VBgGzbF.png)
+
 Source: XKCD
 
 Less than a decade ago the task of image classification was considered amongst the most difficult in computer science. We've come so far since then no because of considerable advances in hardware and processing power but because of great strides (pun intended) in software, namely convolutional neural networks.
