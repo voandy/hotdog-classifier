@@ -2,7 +2,7 @@
 
 This is a convolutional neural network trained from scratch to classify images of hot dogs with 82.45% accuracy.
 
-![Comic](https://i.imgur.com/VBgGzbF.png)
+![XKCD Comic]()
 
 Source: XKCD
 
