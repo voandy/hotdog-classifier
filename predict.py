@@ -21,9 +21,9 @@ model.compile(
 # Prints a prediction
 def print_prediction(prediction):
     if prediction < 0.5:
-        print("The image is of a hotdog! Probability: {0:.2%}".format(1 - prediction))
+        print("The image is of a hotdog! Probability: {0:.2%}\n".format(1 - prediction))
     else:
-        print("The image is not of a hotdog. Probability: {0:.2%}".format(prediction))
+        print("The image is not of a hotdog. Probability: {0:.2%}\n".format(prediction))
 
 
 # Loads an image and makes a prediction using the model

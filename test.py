@@ -6,4 +6,3 @@ for i in range(8):
 
     print("The prediction for " + filename + " is:")
     predict_image(filename)
-    print("\n")
