@@ -30,6 +30,12 @@ Blue: Adam / Red: RMSprop
 
 ![Accuracy](https://i.imgur.com/asc2k24.png)
 
-With this basic model I was able to obtain 82.45% accuracy on the testing data after around 30 minutes of training on a single GTX Titan Xp.
+With this basic model I was able to obtain 82.45% accuracy on the validation data after around 30 minutes of training on a single GTX Titan Xp.
 
 You can try using this model to make predictions on your own images by passing the filename as an argument to predict.py.
+
+### Test images
+
+Below are the model's prediction on six of our test images plus its confidence as a percentage.
+
+![Hotdog](https://i.imgur.com/iFPrhGz.jpg)
